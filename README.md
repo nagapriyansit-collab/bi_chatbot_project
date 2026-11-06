@@ -134,5 +134,5 @@ To develop an AI-powered Business Intelligence solution that combines data analy
 
 ## Author
 
-**Your Name**
+**Nagapriya N**
 
