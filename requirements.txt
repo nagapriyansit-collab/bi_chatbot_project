@@ -2,5 +2,8 @@ streamlit
 pandas
 numpy
 plotly
+groq
+langchain
 langchain-groq
 openpyxl
+tabulate
